@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Docker Virtual Machine",
+            "type": "al",
+            "request": "launch",
+            "server": "http://bc",
+            "serverInstance": "BC",
+            "port": 7049,
+            "tenant": "default",
+            "authentication": "UserPassword",
+            "startupObjectId": 9303,
+            "startupObjectType": "Page",
+            "schemaUpdateMode": "ForceSync",
+            "breakOnError": true
+        },
+    ]
+}
