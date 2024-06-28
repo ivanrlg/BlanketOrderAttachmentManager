@@ -20,6 +20,17 @@ This repository contains the source code for "BlanketOrderNotesCopier," a soluti
 To implement the copying of Attachments from Blanket Orders to Sales Orders in Business Central, integrate the provided codeunit and procedures. This will ensure that all necessary information is transferred automatically during the order conversion process.
 
 ## Video
+Demonstration: Native Process in Business Central
+
+https://github.com/ivanrlg/BlanketOrderAttachmentManager/assets/21310111/8550535c-2209-4721-a857-cd7020e52908
+
+
+
+Enhanced Process: Copying Attachments from Blanket Orders to Sales Orders
+
+
+https://github.com/ivanrlg/BlanketOrderAttachmentManager/assets/21310111/2251c2c5-7b10-497c-99e0-731100410516
+
 
 
 ## Contribution
