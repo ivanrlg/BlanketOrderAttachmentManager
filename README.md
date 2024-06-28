@@ -1,7 +1,7 @@
 # BlanketOrderAttachmentManager
 
 ## Overview
-This repository contains the source code for "BlanketOrderNotesCopier," a solution designed to enhance Dynamics 365 Business Central by copying Attachments from Blanket Orders to Sales Orders. This project addresses a native limitation in Business Central, ensuring that important information is seamlessly transferred during the order conversion process.
+This repository contains the source code for "BlanketOrderAttachmentManager," a solution designed to enhance Dynamics 365 Business Central by copying Attachments from Blanket Orders to Sales Orders. This project addresses a native limitation in Business Central, ensuring that important information is seamlessly transferred during the order conversion process.
 
 ## Features
 - Automatic transfer of Attachments from Blanket Orders to Sales Orders.
